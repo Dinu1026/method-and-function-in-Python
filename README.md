@@ -1,3 +1,3 @@
 # method-and-function-in-Python
 
-use Jupyter Norebook to run the code
+use Jupyter Notebook to run the code
